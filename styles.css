@@ -1,0 +1,22 @@
+body {
+    height: 90%;
+    width: 100%;
+}
+
+.div1 {
+    height: 50%;
+    width: 80%;
+    background-color: aqua;
+}
+
+.div2 {
+    height: 50%;
+    width: 70%;
+    background-color: darkslategray;
+}
+
+p {
+    height: 75%;
+    width: 75%;
+    background-color: aliceblue;
+}
